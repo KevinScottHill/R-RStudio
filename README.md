@@ -1,3 +1,3 @@
 # R-RStudio
 
-This repository
+This repository is used to install R and RStudio on and AWS RedHat linux server.
