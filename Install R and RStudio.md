@@ -19,7 +19,7 @@
     yum update -y
     
 #### Change the redhat-rhui.repo file under"[rhui-REGION-rhel-server-optional]" make enable =1 for optional repos:
-    cd /ete/yum.repos.d
+    cd /etc/yum.repos.d
     vim redhat-rhui.repo
 
 #### Install R:
