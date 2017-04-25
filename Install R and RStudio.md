@@ -30,6 +30,6 @@
     wget https://download2.rstudio.org/rstudio-server-rhel-1.0.143-x86_64.rpm
 
 #### Install rStudio
-    yum install --nogpgcheck rstudio-server-rhel-0.99.903-x86_64.rpm
+    yum install --nogpgcheck rstudio-server-rhel-1.0.143-x86_64.rpm
     
 #### Make sure port 8787 is available through your firewall and use the IP_address(or DNS name):8787 and login using the username and password created
