@@ -27,7 +27,7 @@
     
 #### Get the rStudio file, the latest can be found at https://www.rstudio.com/products/rstudio/download-server/:
     cd
-    wget https://download2.rstudio.org/rstudio-server-rhel-0.99.903-x86_64.rpm
+    wget https://download2.rstudio.org/rstudio-server-rhel-1.0.143-x86_64.rpm
 
 #### Install rStudio
     yum install --nogpgcheck rstudio-server-rhel-0.99.903-x86_64.rpm
