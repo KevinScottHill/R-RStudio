@@ -1,4 +1,4 @@
-# To install packages globally:
+# To install packages globaly:
 
 #### Log in with user cridentials that have sudo permission (on AWS this could be ec2-user)   
     sudo su - \
